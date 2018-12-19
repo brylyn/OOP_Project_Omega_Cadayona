@@ -1,0 +1,4 @@
+c:\users\omega\documents\visual studio 2010\Projects\SalaryandEmployeeManagementRecordSystem\SalaryandEmployeeManagementRecordSystem\bin\Debug\SalaryandEmployeeManagementRecordSystem.exe
+c:\users\omega\documents\visual studio 2010\Projects\SalaryandEmployeeManagementRecordSystem\SalaryandEmployeeManagementRecordSystem\bin\Debug\SalaryandEmployeeManagementRecordSystem.pdb
+c:\users\omega\documents\visual studio 2010\Projects\SalaryandEmployeeManagementRecordSystem\SalaryandEmployeeManagementRecordSystem\obj\x86\Debug\SalaryandEmployeeManagementRecordSystem.exe
+c:\users\omega\documents\visual studio 2010\Projects\SalaryandEmployeeManagementRecordSystem\SalaryandEmployeeManagementRecordSystem\obj\x86\Debug\SalaryandEmployeeManagementRecordSystem.pdb
